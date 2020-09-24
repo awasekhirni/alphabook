@@ -1,0 +1,31 @@
+Can we build an alphabook with quality as good as macbook with ubuntu or linux kernel with the following specification
+
+https://www.rock-chips.com/a/en/products/RK33_Series/2016/0419/758.html
+
+    Rockchip RK3399 SOC with Mali T860 MP4 GPU  4x Arm Processor CPU on motherboard
+    64GB LPDDR4 RAM
+    4 X NVidia GPU SLOTS 
+    1080p IPS Panel (Touch screen)
+    Magnesium Alloy Shell body
+    Bootable Micro SD Slot
+    1TB of eMMC (Upgradable)
+    PCIe x4 to m.2 NVMe SSD Slot (requires optional adapter)
+    SPI Flash 512Mbit
+    HD Digital Video Out via USB-C
+    USB 3.0 Host
+    USB 4.0 Host
+    USB-C (Data, Power and Video out)
+    Lithium Polymer Battery (10000mAH)
+    Stereo Speakers
+    WiFi 802.11 AC + Bluetooth 5.0
+    Headphone Jack
+    Microphone
+    Front-Facing Camera (1080p with depth 3 camera interface)
+    ISO & ANSI Keyboard Variants
+    Privacy Switches for Camera, Microphones and BT/WiFi
+    Large Trackpad
+    UART Access via Audio Jack
+    Barrel Power (5V 3A) Port
+    
+   Can we keep the price below CAD $600 with higher gpu to maximum $900. 
+  
